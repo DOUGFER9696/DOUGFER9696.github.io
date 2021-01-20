@@ -1,0 +1,14 @@
+body
+{
+    font-family: 'Times New Roman', Times, serif;
+    color: cadetblue;
+    font-style: italic;
+}
+
+div
+{
+
+    background-origin: padding-box;
+    border-style: solid;
+    border-color: darkgreen;
+}
